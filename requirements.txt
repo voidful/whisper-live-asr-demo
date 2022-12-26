@@ -1,0 +1,9 @@
+asrp>=0.0.55
+transformers
+Flask
+flask-cors
+pydub
+soundfile
+gevent
+nlp2
+pyOpenSSL
